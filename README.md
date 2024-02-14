@@ -1,0 +1,1 @@
+ Content-based filtering offers personalized recommendations to individual users based on their preferences, interests, or needs. By analyzing the content or features of items, such as story, genre, actors, directors, and music composers, the system can suggest items that are relevant to the user's interests or preferences.
